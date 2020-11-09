@@ -4,11 +4,11 @@ A mind map of the definitions, theorems, lemmas, propositions and references of 
 
 ## Preview
 
-[![overview about the content of the course](images/high-dimensional_probability.svg)](https://raw.githubusercontent.com/BjoernLudwigPTB/stochastic_of_machine_learning/master/images/mindmap.svg)
+[![overview about the content of the course](images/high-dimensional_probability.svg)](https://raw.githubusercontent.com/BjoernLudwigPTB/stochastic_of_machine_learning/main/images/mindmap.svg)
 
 ## Edit the diagram online
 
-[View and edit mind map on diagrams.net.](https://www.draw.io/?lightbox=1&edit=_blank#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FBjoernLudwigPTB%2Fhigh-dimensional_probability%2Fmaster%2Fhigh-dimensional_probability.drawio)
+[View and edit mind map on diagrams.net.](https://app.diagrams.net/#HBjoernLudwigPTB%2Fstochastic_of_machine_learning%2Fmain%2Fimages%2Fmindmap.drawio)
 
 ## References
 
