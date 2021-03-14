@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T16:18:11.699Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4344.0 Safari/537.36" etag="cVY0Rh_KdYZLk6hoj94m" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-14T13:42:28.736Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4440.0 Safari/537.36" etag="hNubLTmgubV90x6JwcQG" version="14.4.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1392" dy="1599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="623" dy="1599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
         <mxCell id="1357" value="Ant" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="973.5" y="411.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1358" value="Thm 3.3 generaliuation bound" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1358" value="Thm 3.3 generalization bound" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="102.19" y="336.5" width="181" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1359" style="endArrow=none;strokeWidth=6;strokeColor=#1699D3;html=1;" parent="1" source="1515" target="1350" edge="1">
@@ -61,15 +61,15 @@
             <mxPoint x="281" y="226.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s2voxZCXtX4ty3H7ViPs-1543" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#64BBE2;strokeWidth=3;" edge="1" parent="1" source="1367" target="1350">
+        <mxCell id="s2voxZCXtX4ty3H7ViPs-1543" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#64BBE2;strokeWidth=3;" parent="1" source="1367" target="1350" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s2voxZCXtX4ty3H7ViPs-1545" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#64BBE2;strokeWidth=3;" edge="1" parent="1" source="1367" target="s2voxZCXtX4ty3H7ViPs-1546">
+        <mxCell id="s2voxZCXtX4ty3H7ViPs-1545" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#64BBE2;strokeWidth=3;" parent="1" source="1367" target="s2voxZCXtX4ty3H7ViPs-1546" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480.25" y="391.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s2voxZCXtX4ty3H7ViPs-1550" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#64BBE2;strokeWidth=3;fontColor=#FFFFFF;" edge="1" parent="1" source="1367" target="s2voxZCXtX4ty3H7ViPs-1549">
+        <mxCell id="s2voxZCXtX4ty3H7ViPs-1550" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#64BBE2;strokeWidth=3;fontColor=#FFFFFF;" parent="1" source="1367" target="s2voxZCXtX4ty3H7ViPs-1549" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1367" value="Rademacher Complexity" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -747,11 +747,17 @@
         <mxCell id="1519" value="Corr 2.10 Relation based on Hoeffding&#39;s inequality" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="40" y="891.5" width="282.5" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="FisoaXRg4ACqaWQ4x6gp-1544" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#A29DC5;strokeWidth=3;fontSize=20;" edge="1" parent="1" source="1516" target="FisoaXRg4ACqaWQ4x6gp-1543">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1520" value="Corr 2.11 single hypothesis" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="408.5" y="610" width="156" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1521" value="Stochastic scenarios" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="452.5" y="884.75" width="126.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FisoaXRg4ACqaWQ4x6gp-1542" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#A29DC5;strokeWidth=3;fontSize=20;" edge="1" parent="1" source="1522" target="1520">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1522" value="Generalisation bounds" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="322.5" y="641.5" width="130" height="20" as="geometry" />
@@ -884,11 +890,20 @@
             <mxPoint x="434" y="675" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s2voxZCXtX4ty3H7ViPs-1546" value="Def 3.1 empricial Rademacher Complexity" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="s2voxZCXtX4ty3H7ViPs-1546" value="Def 3.1 empricial Rademacher Complexity" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="4.6299999999999955" y="421.5" width="260.75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="s2voxZCXtX4ty3H7ViPs-1549" value="Def 3.2 Rademacher Complexity" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="s2voxZCXtX4ty3H7ViPs-1549" value="Def 3.2 Rademacher Complexity" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="292.81" y="421.5" width="199" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FisoaXRg4ACqaWQ4x6gp-1546" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#A29DC5;strokeWidth=3;fontSize=20;" edge="1" parent="1" source="FisoaXRg4ACqaWQ4x6gp-1543" target="FisoaXRg4ACqaWQ4x6gp-1545">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FisoaXRg4ACqaWQ4x6gp-1543" value="Def 2.15 Bayes error" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="530" y="681.5" width="135" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FisoaXRg4ACqaWQ4x6gp-1545" value="Def 2.15 Bayes classifier" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="665" y="726.5" width="165" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
